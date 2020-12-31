@@ -1,1 +1,1 @@
-# EDA-Exploratory dat analysis using supermarket sales data
+# EDA-Exploratory data analysis using supermarket sales data
